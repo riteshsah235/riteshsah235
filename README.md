@@ -5,7 +5,6 @@
 <a href="https://github.com/riteshsah235"><picture><source media="(max-width: 600px)" srcset="./cards/4-nav-github-mobile.svg" /><img src="./cards/1-blank.svg" width="33%" alt="GitHub" /></picture></a><a href="https://www.linkedin.com/in/ritesh-sah-0901a62a1/"><picture><source media="(max-width: 600px)" srcset="./cards/6-nav-linkedin-mobile.svg" /><img src="./cards/1-blank.svg" width="33%" alt="LinkedIn" /></picture></a><a href="mailto:riteshsah235@gmail.com"><picture><source media="(max-width: 600px)" srcset="./cards/8-nav-email-mobile.svg" /><img src="./cards/1-blank.svg" width="33%" alt="Email" /></picture></a>
 <a href="https://x.com/riteshsah235"><picture><source media="(max-width: 600px)" srcset="./cards/10-nav-x-mobile.svg" /><img src="./cards/1-blank.svg" width="50%" alt="X" /></picture></a><a href="https://www.instagram.com/ritesh_kanti"><picture><source media="(max-width: 600px)" srcset="./cards/12-nav-instagram-mobile.svg" /><img src="./cards/1-blank.svg" width="50%" alt="Instagram" /></picture></a>
 
-
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./1-layout-1-h01-dark.svg" /><source media="(prefers-color-scheme: dark)" srcset="./13-layout-2-h02-dark.svg" /><source media="(max-width: 600px)" srcset="./3-layout-10-title-projects-mobile.svg" /><img src="./16-layout-9-title-projects.svg" width="100%" alt="01 Featured Projects" /></picture>
 
 
