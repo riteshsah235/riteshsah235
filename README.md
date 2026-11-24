@@ -7,9 +7,7 @@
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./1-layout-1-h01-dark.svg" /><source media="(prefers-color-scheme: dark)" srcset="./13-layout-2-h02-dark.svg" /><source media="(max-width: 600px)" srcset="./3-layout-10-title-projects-mobile.svg" /><img src="./16-layout-9-title-projects.svg" width="100%" alt="01 Featured Projects" /></picture>
 
 
-<img src="./17-layout-project-1.svg" width="290" alt="NexusLife: read-only sample-data beta, sending disabled." />
-<img src="./18-layout-project-2.svg" width="290" alt="Bomb Tag: 2-8-player browser game." />
-<img src="./19-layout-project-3.svg" width="290" alt="CS Arena and Academy: DBMS solo practice and timed 1v1 battles." />
+<picture><source media="(max-width: 600px)" srcset="./cards/20-project-grid-mobile.svg" /><img src="./cards/19-project-grid.svg" width="100%" alt="NexusLife: read-only sample-data beta, sending disabled. Bomb Tag: 2-8-player browser game. CS Arena and Academy: DBMS solo practice and timed 1v1 battles. Demo links below." /></picture>
 
 </div>
 
