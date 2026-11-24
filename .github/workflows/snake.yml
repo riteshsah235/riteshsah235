@@ -20,6 +20,36 @@ jobs:
           outputs: |
             dist/github-snake.svg?color_snake=%23315eff
             dist/github-snake-dark.svg?palette=github-dark&color_snake=%238fa8ff
+      - name: Add verified calendar-year contribution total
+        env:
+          PROFILE_USER: ${{ github.repository_owner }}
+        run: |
+          python3 - <<'PY'
+          import datetime, html, os, pathlib, re, urllib.request
+          now = datetime.datetime.now(datetime.timezone.utc)
+          year = now.year
+          url = f'https://github.com/users/{os.environ["PROFILE_USER"]}/contributions?from={year}-01-01&to={now:%Y-%m-%d}'
+          request = urllib.request.Request(url, headers={'User-Agent': 'Contribution-board'})
+          with urllib.request.urlopen(request, timeout=30) as response:
+              page = response.read().decode()
+          heading = re.search(r'<h2[^>]*id="js-contribution-activity-description"[^>]*>(.*?)</h2>', page, re.S)
+          if not heading:
+              raise RuntimeError('GitHub contribution total was not found')
+          text = html.unescape(re.sub(r'<[^>]+>', '', heading.group(1)))
+          match = re.search(r'([\d,]+)\s+contributions?\s+in\s+' + str(year), text)
+          if not match:
+              raise RuntimeError('GitHub calendar-year total could not be verified')
+          total = int(match.group(1).replace(',', ''))
+          for name, color, muted in [('github-snake.svg', '#16171a', '#686b74'), ('github-snake-dark.svg', '#ffffff', '#b4bac5')]:
+              path = pathlib.Path('dist') / name
+              svg = path.read_text()
+              svg = svg.replace('<svg ', '<svg x="0" y="58" ', 1)
+              label = f'{total:,} contributions in {year}'
+              note = f'Year-to-date total · updated {now:%d %b %Y} UTC · animation: past 12 months'
+              header = f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 250" width="880" height="250"><title>{label}</title><text x="16" y="25" font-family="Arial,Helvetica,sans-serif" font-size="21" font-weight="600" fill="{color}">{label}</text><text x="16" y="46" font-family="Arial,Helvetica,sans-serif" font-size="12" fill="{muted}">{note}</text>'
+              path.write_text(header + svg + '</svg>')
+          print(f'Verified {total} contributions in {year} from the public GitHub calendar')
+          PY
       - name: Publish only generated images
         env:
           GH_TOKEN: ${{ github.token }}
