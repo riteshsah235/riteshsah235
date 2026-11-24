@@ -69,3 +69,8 @@ Student, diploma level.
 <sub>LEARNING THE FUNDAMENTALS. BUILDING THINGS THAT WORK.</sub>
 
 </div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/riteshsah235/riteshsah235/snake-output/github-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/riteshsah235/riteshsah235/snake-output/github-snake.svg" width="100%" alt="Animated snake moving through the contribution squares" />
+</picture>
