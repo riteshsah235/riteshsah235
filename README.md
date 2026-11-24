@@ -14,17 +14,19 @@
 
 <sub>Early projects. Source repositories stay private. Free-hosted demos may take a moment to wake up.</sub>
 
-<picture><source media="(max-width: 600px)" srcset="./cards/12-title-experience-mobile.svg" /><img src="./cards/11-title-experience.svg" width="100%" alt="02 Experience &amp; Education" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./11-title-experience-mobile.svg" /><img src="./1-title-experience.svg" width="100%" alt="02 Experience" /></picture>
 
 **Summer Research Intern · Malaviya National Institute of Technology Jaipur**  
 Jun-Jul 2025 · Jaipur, India
 
 Worked on Digital Twin frameworks for urban mobility and planning with Dr. Nand Kumar and Prof. Ramesh Babu Battula. Applied spatial analytics and simulation to urban scenarios as part of an AMRUT-funded Smart City initiative.
 
+<picture><source media="(max-width: 600px)" srcset="./4-title-education-mobile.svg" /><img src="./3-title-education.svg" width="100%" alt="03 Education" /></picture>
+
 **BS in Data Science · Indian Institute of Technology Madras**  
 Student, diploma level.
 
-<picture><source media="(max-width: 600px)" srcset="./cards/14-title-archive-mobile.svg" /><img src="./cards/13-title-archive.svg" width="100%" alt="03 Project Archive" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./6-14-title-archive-mobile.svg" /><img src="./5-13-title-archive.svg" width="100%" alt="04 Project Archive" /></picture>
 
 | Project | What it covers | Access |
 | :-- | :-- | :-- |
@@ -35,7 +37,7 @@ Student, diploma level.
 | **Sentiment Analysis API** | Rule-based happy, sad and neutral labels using words, phrases and negation handling. FastAPI, not a trained language model. | [Source](https://github.com/riteshsah235/Sentiment-Analysis) |
 | **TDS GitHub Action** | Coursework repository for GitHub Actions. | [Source](https://github.com/riteshsah235/tds-github-action) |
 
-<picture><source media="(max-width: 600px)" srcset="./cards/16-title-toolkit-mobile.svg" /><img src="./cards/15-title-toolkit.svg" width="100%" alt="04 Technical Toolkit" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./8-16-title-toolkit-mobile.svg" /><img src="./7-15-title-toolkit.svg" width="100%" alt="05 Technical Toolkit" /></picture>
 
 | Area | Tools used in projects and study |
 | :-- | :-- |
@@ -45,7 +47,7 @@ Student, diploma level.
 | Systems | PostgreSQL · WebSockets · Git · GitHub Actions |
 | Hosting | Render · Vercel |
 
-<picture><source media="(max-width: 600px)" srcset="./cards/18-title-connect-mobile.svg" /><img src="./cards/17-title-connect.svg" width="100%" alt="05 Connect &amp; Collaborate" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./10-18-title-connect-mobile.svg" /><img src="./9-17-title-connect.svg" width="100%" alt="06 Connect &amp; Collaborate" /></picture>
 
 <div align="center">
 
