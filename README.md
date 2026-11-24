@@ -1,18 +1,56 @@
-[![](https://visitcount.itsvg.in/api?id=riteshsah235&icon=0&color=0)](https://visitcount.itsvg.in) <br> 💫 About Me:     <br>    
-🌱 I’m currently learning Python , MERN Stack<br><br>💬 Ask me about Python , HTML , CSS , JS<br><br>📫 How to reach me riteshsah235@gmail.com<br><br>⚡ Fun fact Python Start with zero
+<div align="center">
 
+<picture><source media="(max-width: 600px)" srcset="./cards/21-hero-mobile.svg" /><img src="./cards/1-hero.svg" width="100%" alt="Ritesh Sah. BS Data Science student at IIT Madras. Learning by building. Improving by testing. Katihar, Bihar, India." /></picture><br>
+<a href="https://github.com/riteshsah235"><picture><source media="(max-width: 600px)" srcset="./cards/4-nav-github-mobile.svg" /><img src="./cards/3-nav-github.svg" width="33%" alt="GitHub" /></picture></a><a href="https://www.linkedin.com/in/ritesh-sah-0901a62a1/"><picture><source media="(max-width: 600px)" srcset="./cards/6-nav-linkedin-mobile.svg" /><img src="./cards/5-nav-linkedin.svg" width="33%" alt="LinkedIn" /></picture></a><a href="mailto:riteshsah235@gmail.com"><picture><source media="(max-width: 600px)" srcset="./cards/8-nav-email-mobile.svg" /><img src="./cards/7-nav-email.svg" width="33%" alt="Email" /></picture></a>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/ritesh.kanti.9) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ritesh_kanti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ritesh-sah-0901a62a1/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@riteshsah235) 
+<picture><source media="(max-width: 600px)" srcset="./cards/10-title-projects-mobile.svg" /><img src="./cards/9-title-projects.svg" width="100%" alt="01 Featured Projects" /></picture>
+<picture><source media="(max-width: 600px)" srcset="./cards/20-project-grid-mobile.svg" /><img src="./cards/19-project-grid.svg" width="100%" alt="NexusLife: read-only sample-data beta, sending disabled. Bomb Tag: 2-8-player browser game. CS Arena and Academy: DBMS solo practice and timed 1v1 battles. Demo links below." /></picture>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Xbox](https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=riteshsah235&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=riteshsah235&theme=onedark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=riteshsah235&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+</div>
 
+- **[NexusLife](https://nexuslife-dg8a.onrender.com/)**: Inbox and calendar workspace. Shared demo uses sample data. Email sending is disabled.
+- **[Bomb Tag](https://bomb-tag-arena.onrender.com/)**: Browser arena for 2-8 friends. Create a room, pass the bomb, and stay in the game.
+- **[CS Arena & Academy](https://cs-arena-kz30.onrender.com/)**: Practice with explanations. Challenge a friend in timed 1v1 room battles.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<sub>Early projects. Source repositories stay private. Free-hosted demos may take a moment to wake up.</sub>
+
+<picture><source media="(max-width: 600px)" srcset="./cards/12-title-experience-mobile.svg" /><img src="./cards/11-title-experience.svg" width="100%" alt="02 Experience &amp; Education" /></picture>
+
+**Summer Research Intern · Malaviya National Institute of Technology Jaipur**  
+Jun-Jul 2025 · Jaipur, India
+
+Worked on Digital Twin frameworks for urban mobility and planning with Dr. Nand Kumar and Prof. Ramesh Babu Battula. Applied spatial analytics and simulation to urban scenarios as part of an AMRUT-funded Smart City initiative.
+
+**BS in Data Science · Indian Institute of Technology Madras**  
+Student, diploma level.
+
+<picture><source media="(max-width: 600px)" srcset="./cards/14-title-archive-mobile.svg" /><img src="./cards/13-title-archive.svg" width="100%" alt="03 Project Archive" /></picture>
+
+| Project | What it covers | Access |
+| :-- | :-- | :-- |
+| **Rail Saarthi** | Railway complaint categorization, severity tagging and recurring-issue clustering. Sample-data ML demo. | [Source](https://github.com/riteshsah235/Rail_Saarthi) |
+| **A2A Invoice Agent** | FastAPI invoice-decision project with evidence references, approval continuations and idempotent task handling. | [Source](https://github.com/riteshsah235/a2a-invoice-agent) |
+| **GA5 Q2 Workbench** | Q2 browser-based embedding comparison from an uploaded dataset. Local computation; no portal submission or grade guarantee. | [Demo](https://ga5-dataset-workbench.vercel.app/) |
+| **eShopCo Latency API** | Regional telemetry summaries: average and p95 latency, uptime and threshold breaches. Python on Vercel. | [Source](https://github.com/riteshsah235/eshopco-latency) |
+| **Sentiment Analysis API** | Rule-based happy, sad and neutral labels using words, phrases and negation handling. FastAPI, not a trained language model. | [Source](https://github.com/riteshsah235/Sentiment-Analysis) |
+| **TDS GitHub Action** | Coursework repository for GitHub Actions. | [Source](https://github.com/riteshsah235/tds-github-action) |
+
+<picture><source media="(max-width: 600px)" srcset="./cards/16-title-toolkit-mobile.svg" /><img src="./cards/15-title-toolkit.svg" width="100%" alt="04 Technical Toolkit" /></picture>
+
+| Area | Tools used in projects and study |
+| :-- | :-- |
+| Code | Python · JavaScript · SQL · Java |
+| Web | HTML · CSS · Node.js · Express · FastAPI |
+| Data & ML | Pandas · NumPy · Matplotlib · scikit-learn · TF-IDF · KMeans |
+| Systems | PostgreSQL · WebSockets · Git · GitHub Actions |
+| Hosting | Render · Vercel |
+
+<picture><source media="(max-width: 600px)" srcset="./cards/18-title-connect-mobile.svg" /><img src="./cards/17-title-connect.svg" width="100%" alt="05 Connect &amp; Collaborate" /></picture>
+
+<div align="center">
+
+<a href="https://github.com/riteshsah235"><b>GitHub</b></a> · <a href="https://www.linkedin.com/in/ritesh-sah-0901a62a1/"><b>LinkedIn</b></a> · <a href="mailto:riteshsah235@gmail.com"><b>Email</b></a><br>
+
+<sub>LEARNING THE FUNDAMENTALS. BUILDING THINGS THAT WORK.</sub>
+
+</div>
