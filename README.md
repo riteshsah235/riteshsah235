@@ -7,13 +7,9 @@
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./1-layout-1-h01-dark.svg" /><source media="(prefers-color-scheme: dark)" srcset="./13-layout-2-h02-dark.svg" /><source media="(max-width: 600px)" srcset="./3-layout-10-title-projects-mobile.svg" /><img src="./16-layout-9-title-projects.svg" width="100%" alt="01 Featured Projects" /></picture>
 
 
-<picture><source media="(max-width: 600px)" srcset="./cards/20-project-grid-mobile.svg" /><img src="./cards/19-project-grid.svg" width="100%" alt="NexusLife: read-only sample-data beta, sending disabled. Bomb Tag: 2-8-player browser game. CS Arena and Academy: DBMS solo practice and timed 1v1 battles. Demo links below." /></picture>
+<a href="https://nexuslife-dg8a.onrender.com/"><picture><source media="(max-width: 600px)" srcset="./cards/4-project-nexuslife-mobile.svg" /><img src="./cards/1-project-nexuslife.svg" width="33%" alt="NexusLife: open demo" /></picture></a><a href="https://bomb-tag-arena.onrender.com/"><picture><source media="(max-width: 600px)" srcset="./cards/5-project-bomb-tag-mobile.svg" /><img src="./cards/2-project-bomb-tag.svg" width="33%" alt="Bomb Tag: open demo" /></picture></a><a href="https://cs-arena-kz30.onrender.com/"><picture><source media="(max-width: 600px)" srcset="./cards/6-project-cs-arena-mobile.svg" /><img src="./cards/3-project-cs-arena.svg" width="33%" alt="CS Arena and Academy: open demo" /></picture></a>
 
 </div>
-
-- **[NexusLife](https://nexuslife-dg8a.onrender.com/)**: Inbox and calendar workspace. Shared demo uses sample data. Email sending is disabled.
-- **[Bomb Tag](https://bomb-tag-arena.onrender.com/)**: Browser arena for 2-8 friends. Create a room, pass the bomb, and stay in the game.
-- **[CS Arena & Academy](https://cs-arena-kz30.onrender.com/)**: Practice with explanations. Challenge a friend in timed 1v1 room battles.
 
 <sub>Early projects. Source repositories stay private. Free-hosted demos may take a moment to wake up.</sub>
 
