@@ -11,7 +11,7 @@
 
 </div>
 
-<sub>Early projects. Source repositories stay private. Free-hosted demos may take a moment to wake up.</sub>
+<sub>Early projects. Free-hosted demos may take a moment to wake up.</sub>
 
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./3-h03-dark.svg" /><source media="(prefers-color-scheme: dark)" srcset="./4-h04-dark.svg" /><source media="(max-width: 600px)" srcset="./11-title-experience-mobile.svg" /><img src="./1-title-experience.svg" width="100%" alt="02 Experience" /></picture>
