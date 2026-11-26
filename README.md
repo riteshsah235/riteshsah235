@@ -48,11 +48,10 @@ Student, diploma level.
 
 | Area | Tools used in projects and study |
 | :-- | :-- |
-| Code | Python · JavaScript · SQL · Java |
-| Web | HTML · CSS · Node.js · Express · FastAPI |
-| Data & ML | Pandas · NumPy · Matplotlib · scikit-learn · TF-IDF · KMeans |
-| Systems | PostgreSQL · WebSockets · Git · GitHub Actions |
-| Hosting | Render · Vercel |
+| AI/ML | PyTorch · scikit-learn · Claude API · LangChain · Qdrant · Pandas · NumPy · Matplotlib · TF-IDF · KMeans |
+| Backend | Python · FastAPI · Node.js · Express · Redis · PostgreSQL · SQLite · SQL · Java · WebSockets |
+| Frontend | Next.js · React · TypeScript · JavaScript · HTML · CSS |
+| Tools | Docker · Git · GitHub · GitHub Actions · Vercel · Render · Kaggle |
 
 
 <picture><source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./8-layout-11-h11-dark.svg" /><source media="(prefers-color-scheme: dark)" srcset="./15-layout-12-h12-dark.svg" /><source media="(max-width: 600px)" srcset="./10-layout-10-18-title-connect-mobile.svg" /><img src="./2-layout-9-17-title-connect.svg" width="100%" alt="06 Connect &amp; Collaborate" /></picture>
