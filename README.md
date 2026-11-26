@@ -48,9 +48,10 @@ Student, diploma level.
 
 | Area | Tools used in projects and study |
 | :-- | :-- |
+| Languages | Python · JavaScript · TypeScript · Java · SQL · HTML · CSS |
 | AI/ML | PyTorch · scikit-learn · Claude API · LangChain · Qdrant · Pandas · NumPy · Matplotlib · TF-IDF · KMeans |
-| Backend | Python · FastAPI · Node.js · Express · Redis · PostgreSQL · SQLite · SQL · Java · WebSockets |
-| Frontend | Next.js · React · TypeScript · JavaScript · HTML · CSS |
+| Backend | FastAPI · Node.js · Express · Redis · PostgreSQL · SQLite · WebSockets |
+| Frontend | Next.js · React |
 | Tools | Docker · Git · GitHub · GitHub Actions · Vercel · Render · Kaggle |
 
 
